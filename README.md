@@ -28,4 +28,5 @@ Responsive Design: Making sure the application works well on different devices. 
 6. Outcome
 User Experience: The final to-do list application is a practical, intuitive tool that allows users to manage their tasks effectively. The use of React ensures a responsive and interactive user experience, while HTML, CSS, and JavaScript provide the foundational structure and functionality.
 OUTPUT:
+![Screenshot (1018)](https://github.com/user-attachments/assets/28b48baa-9df8-4cef-9816-5a153c252cac)
 
