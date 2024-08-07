@@ -27,3 +27,5 @@ Interactivity: Ensuring smooth interactions, such as adding or editing tasks wit
 Responsive Design: Making sure the application works well on different devices. Utilized CSS media queries and flexible layouts.
 6. Outcome
 User Experience: The final to-do list application is a practical, intuitive tool that allows users to manage their tasks effectively. The use of React ensures a responsive and interactive user experience, while HTML, CSS, and JavaScript provide the foundational structure and functionality.
+OUTPUT:
+
